@@ -1,0 +1,8 @@
+[package]
+name = "tor_crypto"
+version = "0.1.0"
+authors = ["Ben Janis <benjamin.janis@tufts.edu>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+rand = "^0.5.5"
